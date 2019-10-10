@@ -1,0 +1,66 @@
+%\documentclass[pre,floatfix,longbibliography,superscriptaddress,final,notitlepage,nofootinbib]{revtex4-1}
+
+% !TEX program = pdflatex
+
+\input{preamble/preamble.tex}
+\input{preamble/preamble_usepackage.tex}
+\input{preamble/preamble_math.tex}
+
+\newcommand{\CDB}[1]{\textcolor{blue}{#1}}
+\newcommand{\CDBcom}[1]{[\textcolor{blue}{CDB: #1}]}
+\newcommand{\IV}[1]{\textcolor{red}{#1}}
+\newcommand{\IVcom}[1]{[\textcolor{red}{DL: #1}]}
+\newcommand{\nix}[1]{\textcolor{red}{#1}}
+
+
+\title{Advanced Probabilistic Modeling and Applications}
+\author{Caterina De Bacco and Isabel Valera}
+\date{\null}
+
+\begin{document}
+\maketitle
+
+%\begin{enumerate}
+%
+%\end{enumerate}
+
+\section{Schedule}
+
+\begin{itemize}
+\item \bf{15 Oct} Introduction  (both) --> T: exc
+\CDB{
+\item \bf{22 Oct} GMM + EM (Isa) --> T: Code
+\item \bf{29 Oct} DP- GMM + Gibbs (Isa) --> T: Code
+\item \bf{5 Nov} HMMs + Gibbs (Isa) --> T: Code 
+\item \bf{12th Nov} TPPs + ML (Isa) 
+\item \bf{19th Nov} TPPs + SCM (Isa)  --> T: data science
+}
+\IV{
+\item \bf{26th Nov} MF approach (Cate) --> T: exc
+\item \bf{3rd Dec} Tap (Cate) --> T: exc
+\item \bf{10th Dec}  Review and Spin glass planted  I (Cate) --> T: exc
+\item \bf{17th Dec} Spin glass planted (BP) (Cate) --> T: data science
+\item \bf{7th Jan}  MM-SBM  (Poisson fatorization?) + (EM/BP)(Cate)  --> T: data science
+}
+\textcolor{magenta}{
+\item \bf{14th Jan} VI + GMMs (Cate)  --> T: Code
+\item \bf{21st Jan}  VI + LDA (Cate) --> T: Data science
+\item \bf{28st Jan} SVI (Poisson fatorization?) (Isa) 
+\item \bf{4th Feb} VAE (Isa) 
+}
+\end{itemize}
+
+\input{L1}
+
+
+%%%%%%%%%% Acknowledgements
+%\section*{Acknowledgements}
+
+
+%%%%%%%%%% Bibliography
+%\bibliographystyle{abbrv}
+\bibliographystyle{apsrev4-1}
+\bibliography{bibliography}
+
+
+\end{document}
