@@ -8,7 +8,7 @@
 
 **Plan**:  14 Oct 2019 - 9 Feb 2020, 15 weeks, 4hr/week, 15 weeks, 60hr.  
 
-**Lectures**:  Tuesdays 14:15-16pm at TTR2 in Cyber Valley Campus.   
+**Lectures**:  [__**NEWS**__] Tuesdays 14:15-16pm at TTR2 in Cyber Valley Campus.   
 
 **Tutorials**: Wednesdays 16:15-18pm  at TTR2 in Cyber Valley Campus.   
 
