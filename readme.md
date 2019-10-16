@@ -4,13 +4,13 @@
   Winter semester 2019/2020.
 
 ## Course information
-**Lecturers**:  [Isabel Valera]([https://ivaleram.github.io/](https://ivaleram.github.io/)) and [Caterina De Bacco]([https://www.cdebacco.com/](https://www.cdebacco.com/))
+**Lecturers**:  [Isabel Valera](https://ivaleram.github.io/) and [Caterina De Bacco](https://www.cdebacco.com/)
 
-**Plan**:  14 Oct 2019 - 9 Feb 2020, 15 weeks, 4hr/week, 15 weeks, 60hr.
-**Lectures**:  Tuesdays 14:15-16pm at TTR2 in Cyber Valley Campus
-**Tutorials**: Wednesdays 16:15-18pm  at TTR2 in Cyber Valley Campus
-**Registration**: NEED to register the exam either via Campus / ALMA or written if the student cannot register online.
- **Grading** : 70\% written exam + 30\% assignements
+**Plan**:  14 Oct 2019 - 9 Feb 2020, 15 weeks, 4hr/week, 15 weeks, 60hr.  
+**Lectures**:  Tuesdays 14:15-16pm at TTR2 in Cyber Valley Campus.   
+**Tutorials**: Wednesdays 16:15-18pm  at TTR2 in Cyber Valley Campus.   
+**Registration**: NEED to register the exam either via Campus / ALMA or written if the student cannot register online.  
+**Grading** : 70\% written exam + 30\% assignements.   
 
 ### Tentative program and schedule
 
