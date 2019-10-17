@@ -2,6 +2,8 @@
 # Advanced Probabilistic Machine Learning and Applications
 
   Winter semester 2019/2020.
+  
+  A pdf version containing all this info is Courseinfo.pdf
 
 ## Course information
 **Lecturers**:  [Isabel Valera](https://ivaleram.github.io/) and [Caterina De Bacco](https://www.cdebacco.com/)
