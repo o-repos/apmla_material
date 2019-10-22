@@ -22,11 +22,11 @@ For the EXAM, NEED to officially register  either via Campus / ALMA or written i
 
 **Grading** : 70\% written exam + 30\% assignments.   
 
-1st assignment* (corresponding to Block I) due to December 13th.
+ *  1st assignment* (corresponding to Block I) due to December 13th.
 
-2nd assignment* (corresponding to Block II) due to January 17th.
+ *  2nd assignment* (corresponding to Block II) due to January 17th.
 
-3rd assignment* (corresponding to Block III) due to February (date to be fixed).
+ * 3rd assignment* (corresponding to Block III) due to February (date to be fixed).
 
 *Every assignment is composed by several exercises, which will be released sequentially before every tutorial session. Information about assignment submission will be provided later in time but It will be made electronically. 
 
