@@ -39,20 +39,20 @@ For the EXAM, NEED to officially register  either via Campus / ALMA or written i
 
 ### BLOCK I:	
 2.  **Gaussian Mixture Model (GMM) + Expectation Maximization** (22 Oct) 
-* _Reference_: Section 9.2 of Bishop 
+  * _Reference_: Section 9.2 of Bishop 
 3.  **DP- GMM + Gibbs Sampling** (29 Oct)
 4.  **Hidden Markov Models (HMMs) + Gibbs** (5 Nov) 
 5.  **Temporal point Processes (TPPs) I** (12 Nov) 
 6.  **TPPs + Sequential Monte Carlo** (19 Nov) 
 
-BLOCK II:
+### BLOCK II:
 7.  **Mean Field approach** (26 Nov)
 8.  **TAP** (3 Dec)
 9.  **Review and Spin glass planted I** (10 Dec)
 10. **Spin glass planted (BP)** (17 Dec)
 11. **MM-SBM + EM/BP**  (7 Jan)
 
-BLOCK III:
+### BLOCK III:
 12. **GMMs + Variational Inference (VI)** (14 Jan)
 13. **VI + LDA** (21 Jan)
 14. **Stochastic VI** (28 Jan)
