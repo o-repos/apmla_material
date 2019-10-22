@@ -39,7 +39,7 @@ For the EXAM, NEED to officially register  either via Campus / ALMA or written i
 
 ### BLOCK I:	
 2.  **Gaussian Mixture Model (GMM) + Expectation Maximization** (22 Oct) 
-  * _Reference_: Section 9.2 of Bishop 
+    * _Reference_: Section 9.2 of Bishop 
 3.  **DP- GMM + Gibbs Sampling** (29 Oct)
 4.  **Hidden Markov Models (HMMs) + Gibbs** (5 Nov) 
 5.  **Temporal point Processes (TPPs) I** (12 Nov) 
