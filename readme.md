@@ -12,7 +12,7 @@ For any general question about the course, use GitHub issues. Before posting, pl
 
 **Plan**:  14 Oct 2019 - 9 Feb 2020, 15 weeks, 4hr/week, 15 weeks, 60hr.  
 
-**Lectures**:  [__**NEWS**__] Tuesdays 14:15-16pm at TTR2 in Cyber Valley Campus.   
+**Lectures**:  Tuesdays 14:15-16pm at TTR2 in Cyber Valley Campus.   
 
 **Tutorials**: Wednesdays 16:15-18pm  at TTR2 in Cyber Valley Campus.   
 
@@ -20,17 +20,19 @@ For any general question about the course, use GitHub issues. Before posting, pl
 
 For the EXAM, NEED to officially register  either via Campus / ALMA or written if the student cannot register online (closer to the exam date).  
 
-**Grading** : 70\% written exam + 30\% assignments.   
+**Grading** : Maximum between 70\% written exam+30\% assignments and 100\% exam.   
 
- *  1st assignment* (corresponding to Block I) due to December 13th.
+ 1. **1st assignment** (corresponding to Block I) due to December 13th. For questions, contact [Pablo Sanchez](mailto:pablo.sanchez-martin@tuebingen.mpg.de).
 
- *  2nd assignment* (corresponding to Block II) due to January 17th.
+	**Submission link:** https://forms.gle/MEfHGXtubda96Jee9 
 
- * 3rd assignment* (corresponding to Block III) due to February (date to be fixed).
+ 2. **2nd assignment** (corresponding to Block II) due to January 17th. For questions, contact [Nicolò Ruggeri](mailto:nicolo.ruggeri@tuebingen.mpg.de) or [Martina Contisciani](mailto:martina.contisciani@tuebingen.mpg.de).
 
-*Every assignment is composed by several exercises, which will be released sequentially before every tutorial session. Information about assignment submission will be provided later in time but It will be made electronically. 
+ 3. **3rd assignment** (corresponding to Block III) due to February (date to be fixed).
 
-*Assignment may be done and submitted in groups of up to 3 people (optional). 
+* Every assignment is composed by several exercises, which will be released sequentially before every tutorial session. Information about assignment submission will be provided later in time but it will be made electronically. 
+
+* Assignment may be done and submitted in groups of up to 3 people (optional). 
 
 ### Tentative program and schedule
 
@@ -40,17 +42,20 @@ For the EXAM, NEED to officially register  either via Campus / ALMA or written i
 ### BLOCK I:	
 2.  **Gaussian Mixture Model (GMM) + Expectation Maximization** (22 Oct) 
     * _Reference_: Section 9.2 of Bishop 
-3.  **DP- GMM + Gibbs Sampling** (29 Oct)
-4.  **Hidden Markov Models (HMMs) + Gibbs** (5 Nov) 
-5.  **Temporal point Processes (TPPs) I** (12 Nov) 
-6.  **TPPs + Sequential Monte Carlo** (19 Nov) 
+3.  **Bayesian GMM + Gibbs Sampling** (29 Oct)
+4.  **DP and infinite Mixture Models (iMMs)** (5 Nov) 
+5.  **Temporal point Processes (TPPs) (part I)** (12 Nov) 
+6.  **TPPs (part II)+ Sequential Monte Carlo** (19 Nov) 
 
 ### BLOCK II:
 7.  **Mean Field approach** (26 Nov)
-8.  **TAP** (3 Dec)
-9.  **Review and Spin glass planted I** (10 Dec)
-10. **Spin glass planted (BP)** (17 Dec)
-11. **MM-SBM + EM/BP**  (7 Jan)
+    * _Reference_: AMFM
+8.  **TAP approximation** (3 Dec)
+    * _Reference_: AMFM
+9.  **Bethe Approximation and Belief Propagation part I** (10 Dec)
+    * _Reference_: MM  
+10. **Bethe Approximation and Belief Propagation part II** (17 Dec)
+11. **Spin glass planted (BP) and SBM**  (7 Jan)
 
 ### BLOCK III:
 12. **GMMs + Variational Inference (VI)** (14 Jan)
@@ -62,3 +67,5 @@ For the EXAM, NEED to officially register  either via Campus / ALMA or written i
 ### References
 
 * Bishop=C. M. Bishop, _Pattern recognition and machine learning_ (Springer, 2006).
+* AMFM=M. Opper and D. Saad, _Advanced mean field methods: Theory and practice_ (MIT press, 2001).
+* MM= M. Mèzard and A. Montanari, _Information, Physics and Computation_ (Oxford Graduate texts, 2009).
